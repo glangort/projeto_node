@@ -1,0 +1,19 @@
+{
+  "name": "curso_node",
+  "version": "1.0.0",
+  "description": "Primeiro projeto node",
+  "main": "index.js",
+  "repository": "https://github.com/glangort/curso_node.git",
+  "author": "Gabriel Langort",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.2"
+  },
+  "devDependencies": {
+    "eslint": "^6.3.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
+  }
+}
